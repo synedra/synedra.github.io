@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=252
+guid: princess_polymath/?p=252
 permalink: /the-intersect-has-launched.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=791
+guid: princess_polymath/?p=791
 permalink: /promises-promises.html
 post_slider_check_key:
   - 0
@@ -19,7 +19,7 @@ categories:
 ---
 This has got to be the fifty-bazillionth post about javascript promises with the same title out there, but I had a very particular problem I was trying to solve and had trouble finding the answer so once I got it working I wanted to share it with you.
 
-The challenge came about because I was somewhat embarrassed by the implementation I had for my [fitbit-twilio-twitter-ifttt-phillipshue mashup](http://www.princesspolymath.com/princess_polymath/?p=787) &#8211; it had race conditions pretty frequently because of the asynchronous nature of the API calls, and I didn&#8217;t really want to chain everything together.  So it turned out that what I wanted was to use Promise.all() to tell the script to wait until both of the calls finished before pestering me to tell me to eat or exercise.  I hunted around, asked on [StackOverflow](http://stackoverflow.com/questions/30428045/using-promise-all-for-multiple-http-oauth-queries), and got pointed in the right direction, and it turns out that the actual answer was much more elegant than the original code for a single API call.
+The challenge came about because I was somewhat embarrassed by the implementation I had for my [fitbit-twilio-twitter-ifttt-phillipshue mashup](princess_polymath/?p=787) &#8211; it had race conditions pretty frequently because of the asynchronous nature of the API calls, and I didn&#8217;t really want to chain everything together.  So it turned out that what I wanted was to use Promise.all() to tell the script to wait until both of the calls finished before pestering me to tell me to eat or exercise.  I hunted around, asked on [StackOverflow](http://stackoverflow.com/questions/30428045/using-promise-all-for-multiple-http-oauth-queries), and got pointed in the right direction, and it turns out that the actual answer was much more elegant than the original code for a single API call.
 
 These calls aren&#8217;t promises by default, so you have to promisify them in order to get them to work, but the process is pretty easy.  Here, for your copying and pasting pleasure, is the code I ended up with.  It&#8217;s not embarrassing at all!
 

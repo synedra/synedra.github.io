@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=404
+guid: princess_polymath/?p=404
 permalink: /browsing-your-connections-by-industry.html
 aktt_notify_twitter:
   - yes
@@ -34,13 +34,13 @@ A friend of mine, who runs a [rather cool website](http://www.dailyendeavor.com)
 
 But first, the obligatory working demo:
 
-And the [code](http://www.princesspolymath.com/dailyendeav/industry.html). Note there are a couple of support files you&#8217;ll need to snag as well.
+And the [code](dailyendeav/industry.html). Note there are a couple of support files you&#8217;ll need to snag as well.
 
-In order to keep this post manageable, I&#8217;ll mention that most of the pieces for this are included in my [StreamIn&#8217;](http://www.princesspolymath.com/princess_polymath/?p=347) tutorial. So if you&#8217;re interested in understanding how the basic framework works, take a look there. We&#8217;re basically going to break out on &#8220;Add Share Stream&#8221;.
+In order to keep this post manageable, I&#8217;ll mention that most of the pieces for this are included in my [StreamIn&#8217;](princess_polymath/?p=347) tutorial. So if you&#8217;re interested in understanding how the basic framework works, take a look there. We&#8217;re basically going to break out on &#8220;Add Share Stream&#8221;.
 
 ### Industries
 
-One of the reasons that this example is somewhat tricky is that the API doesn&#8217;t currently have a way to give you a list of industries, and how they&#8217;re related, but we do have a [web document](http://developer.linkedin.com/docs/DOC-1011) (which is fairly static) with that information. So I grabbed the HTML from that page, fiddled with it in my editor, and created a JSON document with a hash of industries (and the groups they map to) and groups (and the industries they contain). You can see that file [here](http://www.princesspolymath.com/dailyendeav/industries.js). Loading that file as a javascript script gives the page access to hashes of this information.
+One of the reasons that this example is somewhat tricky is that the API doesn&#8217;t currently have a way to give you a list of industries, and how they&#8217;re related, but we do have a [web document](http://developer.linkedin.com/docs/DOC-1011) (which is fairly static) with that information. So I grabbed the HTML from that page, fiddled with it in my editor, and created a JSON document with a hash of industries (and the groups they map to) and groups (and the industries they contain). You can see that file [here](dailyendeav/industries.js). Loading that file as a javascript script gives the page access to hashes of this information.
 
 ### Autocomplete
 

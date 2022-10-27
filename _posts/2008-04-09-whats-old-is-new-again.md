@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=30
+guid: princess_polymath/?p=30
 permalink: /whats-old-is-new-again.html
 aktt_notify_twitter:
   - yes

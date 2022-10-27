@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=148
+guid: princess_polymath/?p=148
 permalink: /graph-databases-are-the-new-black.html
 aktt_notify_twitter:
   - yes

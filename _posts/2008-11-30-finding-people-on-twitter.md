@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=139
+guid: princess_polymath/?p=139
 permalink: /finding-people-on-twitter.html
 aktt_notify_twitter:
   - yes

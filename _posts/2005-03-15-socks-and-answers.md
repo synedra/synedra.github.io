@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=90
+guid: princess_polymath/?p=90
 permalink: /socks-and-answers.html
 aktt_notify_twitter:
   - yes

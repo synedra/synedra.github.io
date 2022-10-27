@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=182
+guid: princess_polymath/?p=182
 permalink: /accessing-amazons-product-advertising-api-with-python.html
 aktt_notify_twitter:
   - yes

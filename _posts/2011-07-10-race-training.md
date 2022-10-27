@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=468
+guid: princess_polymath/?p=468
 permalink: /race-training.html
 aktt_notify_twitter:
   - yes

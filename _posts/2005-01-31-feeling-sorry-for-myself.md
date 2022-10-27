@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=70
+guid: princess_polymath/?p=70
 permalink: /feeling-sorry-for-myself.html
 aktt_notify_twitter:
   - yes

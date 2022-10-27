@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=44
+guid: princess_polymath/?p=44
 permalink: /merry-christmas-to-all.html
 aktt_notify_twitter:
   - yes

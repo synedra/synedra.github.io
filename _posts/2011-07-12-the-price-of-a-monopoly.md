@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=473
+guid: princess_polymath/?p=473
 permalink: /the-price-of-a-monopoly.html
 aktt_notify_twitter:
   - yes

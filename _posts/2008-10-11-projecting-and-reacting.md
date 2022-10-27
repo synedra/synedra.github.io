@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=134
+guid: princess_polymath/?p=134
 permalink: /projecting-and-reacting.html
 aktt_notify_twitter:
   - yes

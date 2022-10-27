@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=12
+guid: princess_polymath/?p=12
 permalink: /re-pacing-myself.html
 aktt_notify_twitter:
   - yes

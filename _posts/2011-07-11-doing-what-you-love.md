@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=470
+guid: princess_polymath/?p=470
 permalink: /doing-what-you-love.html
 aktt_notify_twitter:
   - yes

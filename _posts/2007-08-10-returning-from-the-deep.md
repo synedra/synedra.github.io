@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=3
+guid: princess_polymath/?p=3
 permalink: /returning-from-the-deep.html
 aktt_notify_twitter:
   - yes

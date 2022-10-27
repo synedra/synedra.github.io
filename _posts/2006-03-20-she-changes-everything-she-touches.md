@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=124
+guid: princess_polymath/?p=124
 permalink: /she-changes-everything-she-touches.html
 aktt_notify_twitter:
   - yes

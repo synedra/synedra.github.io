@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=657
+guid: princess_polymath/?p=657
 permalink: /conversations.html
 dsq_thread_id:
   - 1900076067

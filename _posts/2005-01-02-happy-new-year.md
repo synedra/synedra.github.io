@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=47
+guid: princess_polymath/?p=47
 permalink: /happy-new-year.html
 aktt_notify_twitter:
   - yes

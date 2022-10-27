@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=15
+guid: princess_polymath/?p=15
 permalink: /brainstorming-the-day-away.html
 aktt_notify_twitter:
   - yes

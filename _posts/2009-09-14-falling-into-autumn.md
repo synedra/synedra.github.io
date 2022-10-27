@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=161
+guid: princess_polymath/?p=161
 permalink: /falling-into-autumn.html
 aktt_notify_twitter:
   - yes

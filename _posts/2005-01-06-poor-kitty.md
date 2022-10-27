@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=49
+guid: princess_polymath/?p=49
 permalink: /poor-kitty.html
 aktt_notify_twitter:
   - yes

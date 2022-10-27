@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=149
+guid: princess_polymath/?p=149
 permalink: /ignite-talks-at-oscon.html
 aktt_notify_twitter:
   - yes

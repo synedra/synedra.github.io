@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=27
+guid: princess_polymath/?p=27
 permalink: /django-is-greathhhhhfrustrating.html
 aktt_notify_twitter:
   - yes

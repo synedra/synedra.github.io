@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=193
+guid: princess_polymath/?p=193
 permalink: /creating-netflix-widgets-from-freebase-queries.html
 aktt_notify_twitter:
   - yes

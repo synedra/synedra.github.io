@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=66
+guid: princess_polymath/?p=66
 permalink: /housekeeping-and-fun-surprises.html
 aktt_notify_twitter:
   - yes

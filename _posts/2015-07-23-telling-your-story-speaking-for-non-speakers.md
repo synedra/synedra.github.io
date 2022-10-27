@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/telling-your-story-speaking-for-non-speakers.html
+guid: telling-your-story-speaking-for-non-speakers.html
 permalink: /telling-your-story-speaking-for-non-speakers.html
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:3:"819";s:11:"_thumb_type";s:5:"thumb";}'
@@ -17,7 +17,7 @@ dsq_thread_id:
 enclosure:
   - |
     |
-        http://www.princesspolymath.com/assets/videos/TellingYourStory.mp4
+        assets/videos/TellingYourStory.mp4
         150700032
         video/mp4
         
@@ -26,9 +26,9 @@ categories:
   - Geek Stuff
 ---
 <div style="width: 640px; " class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-818-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.princesspolymath.com/assets/videos/TellingYourStory.mp4?_=1" />
+  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-818-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="assets/videos/TellingYourStory.mp4?_=1" />
   
-  <a href="http://www.princesspolymath.com/assets/videos/TellingYourStory.mp4">http://www.princesspolymath.com/videos/TellingYourStory.mp4</a></video>
+  <a href="https://www.oreilly.com/library/view/oscon-2015-video/9781491927991/video218451.html">videos/TellingYourStory.mp4</a></video>
 </div>
 
 This year I was honored to be invited to contribute to the OSCON talks on presentation skills with my own take, Telling Your Story. I was placed into a slot where I was likely to have plenty of worn out attendees, the last slot on the second full day, so I went in there determined to give them a fun presentation and send them off into the evening chuckling.

@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=174
+guid: princess_polymath/?p=174
 permalink: /tone-deaf-content-owners.html
 aktt_notify_twitter:
   - no

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=130
+guid: princess_polymath/?p=130
 permalink: /chapter-two-in-which-pooh-suffering-from-brain-damage-doesnt-realize-the-obvious.html
 aktt_notify_twitter:
   - yes

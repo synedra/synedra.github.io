@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=487
+guid: princess_polymath/?p=487
 permalink: /hiring-generalists.html
 aktt_notify_twitter:
   - yes

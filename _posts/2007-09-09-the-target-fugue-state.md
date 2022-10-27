@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=13
+guid: princess_polymath/?p=13
 permalink: /the-target-fugue-state.html
 aktt_notify_twitter:
   - yes

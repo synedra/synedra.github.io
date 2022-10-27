@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=52
+guid: princess_polymath/?p=52
 permalink: /eat-less-exercise-more.html
 aktt_notify_twitter:
   - yes

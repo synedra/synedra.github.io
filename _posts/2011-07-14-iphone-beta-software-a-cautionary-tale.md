@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=482
+guid: princess_polymath/?p=482
 permalink: /iphone-beta-software-a-cautionary-tale.html
 aktt_notify_twitter:
   - yes

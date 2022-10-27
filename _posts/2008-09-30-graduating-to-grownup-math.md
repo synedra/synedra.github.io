@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=133
+guid: princess_polymath/?p=133
 permalink: /graduating-to-grownup-math.html
 aktt_notify_twitter:
   - yes

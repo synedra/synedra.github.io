@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=107
+guid: princess_polymath/?p=107
 permalink: /scenes-from-santa-cruz.html
 aktt_notify_twitter:
   - yes

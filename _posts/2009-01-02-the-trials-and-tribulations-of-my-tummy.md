@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=140
+guid: princess_polymath/?p=140
 permalink: /the-trials-and-tribulations-of-my-tummy.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=120
+guid: princess_polymath/?p=120
 permalink: /victoria-and-her-hat.html
 aktt_notify_twitter:
   - yes

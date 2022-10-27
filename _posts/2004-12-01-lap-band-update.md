@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=31
+guid: princess_polymath/?p=31
 permalink: /lap-band-update.html
 aktt_notify_twitter:
   - yes

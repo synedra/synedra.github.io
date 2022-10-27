@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=79
+guid: princess_polymath/?p=79
 permalink: /secret-valentines.html
 aktt_notify_twitter:
   - yes

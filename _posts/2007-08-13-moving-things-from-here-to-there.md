@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=7
+guid: princess_polymath/?p=7
 permalink: /moving-things-from-here-to-there.html
 aktt_notify_twitter:
   - yes

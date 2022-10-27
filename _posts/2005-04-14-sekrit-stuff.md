@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=101
+guid: princess_polymath/?p=101
 permalink: /sekrit-stuff.html
 aktt_notify_twitter:
   - yes

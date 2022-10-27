@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=135
+guid: princess_polymath/?p=135
 permalink: /shameful-kindle-love.html
 aktt_notify_twitter:
   - yes

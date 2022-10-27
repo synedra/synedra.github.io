@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=144
+guid: princess_polymath/?p=144
 permalink: /installing-opencv-on-osx-with-python.html
 aktt_notify_twitter:
   - yes
@@ -112,7 +112,7 @@ I need to get [OpenCV](http://opencv.willowgarage.com/wiki/Welcome) working on m
   <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-size: 14px; white-space: pre-wrap;"><br /></span>
 </div>
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="This is a picture" alt="screenshot.jpg" src="http://www.princesspolymath.com/princess_polymath/screenshot.jpg" width="320" height="222" class="mt-image-none" style="" /></span> 
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="This is a picture" alt="screenshot.jpg" src="princess_polymath/screenshot.jpg" width="320" height="222" class="mt-image-none" style="" /></span> 
 
 <div>
 </div>

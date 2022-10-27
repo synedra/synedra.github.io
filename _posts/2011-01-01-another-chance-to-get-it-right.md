@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=296
+guid: princess_polymath/?p=296
 permalink: /another-chance-to-get-it-right.html
 aktt_notify_twitter:
   - yes

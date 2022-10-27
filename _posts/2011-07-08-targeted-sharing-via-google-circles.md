@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=459
+guid: princess_polymath/?p=459
 permalink: /targeted-sharing-via-google-circles.html
 aktt_notify_twitter:
   - yes

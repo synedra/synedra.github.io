@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=147
+guid: princess_polymath/?p=147
 permalink: /open-source-iphone-development-at-oscon.html
 aktt_notify_twitter:
   - yes

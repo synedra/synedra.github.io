@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=138
+guid: princess_polymath/?p=138
 permalink: /twitter-badge-with-location.html
 aktt_notify_twitter:
   - yes
@@ -31,7 +31,7 @@ In my job as an elf for Santa, I frequently have to travel back to the North Pol
 </div>
 
 <div>
-  First, you&#8217;ll need to create a local Javascript file to do your evil bidding.  I plopped mine in my mt-static directory (because I use Movable Type) but you can put it in any static spot on your server.  You can grab mine <a href="http://www.princesspolymath.com/mt-static/test.js">here</a>.
+  First, you&#8217;ll need to create a local Javascript file to do your evil bidding.  I plopped mine in my mt-static directory (because I use Movable Type) but you can put it in any static spot on your server.  You can grab mine <a href="mt-static/test.js">here</a>.
 </div>
 
 <pre></pre>

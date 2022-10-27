@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=620
+guid: princess_polymath/?p=620
 permalink: /quantifying-your-fitness.html
 aktt_notify_twitter:
   - yes

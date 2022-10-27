@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=110
+guid: princess_polymath/?p=110
 permalink: /interesting-times.html
 aktt_notify_twitter:
   - yes

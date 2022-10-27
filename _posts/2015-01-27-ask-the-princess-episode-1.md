@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=773
+guid: princess_polymath/?p=773
 permalink: /ask-the-princess-episode-1.html
 post_slider_check_key:
   - 0

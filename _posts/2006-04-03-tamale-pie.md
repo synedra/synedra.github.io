@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=125
+guid: princess_polymath/?p=125
 permalink: /tamale-pie.html
 aktt_notify_twitter:
   - yes

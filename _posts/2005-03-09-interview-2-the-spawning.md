@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=87
+guid: princess_polymath/?p=87
 permalink: /interview-2-the-spawning.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=84
+guid: princess_polymath/?p=84
 permalink: /blogs-are-so-demanding.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=265
+guid: princess_polymath/?p=265
 permalink: /enhancing-your-jquery-website-with-the-facebook-graph.html
 aktt_notify_twitter:
   - yes
@@ -32,7 +32,7 @@ The functionality I wanted to implement was:
   * Show thumbnails for each of my friends who like the current movie
   * When the user&#8217;s thumbnail is clicked show all the movies liked by that friend in the app
   * When one of those movies is clicked, jump to that movie </ul> 
-    Turns out this task was more challenging than I anticipated &#8211; partly because, as a hack, I hadn&#8217;t thought it out completely, and partly because some of the pieces were more difficult to implement than I&#8217;d expected.  You can see the resulting application [here](http://www.princesspolymath.com/webIntersect/index.php), although I will remind you that as a hack it&#8217;s not as stable as it might be, and it seems to be particularly sad in Firefox.
+    Turns out this task was more challenging than I anticipated &#8211; partly because, as a hack, I hadn&#8217;t thought it out completely, and partly because some of the pieces were more difficult to implement than I&#8217;d expected.  You can see the resulting application [here](webIntersect/index.php), although I will remind you that as a hack it&#8217;s not as stable as it might be, and it seems to be particularly sad in Firefox.
     
     This post will cover the process I went through from start to finish.
     
@@ -46,7 +46,7 @@ The functionality I wanted to implement was:
     
     For instance, the URL for my website was:
     
-    `http://www.princesspolymath.com/webIntersect/index.html`
+    `webIntersect/index.html`
     
     But I wanted to be able to let people &#8220;like&#8221; particular movies, so I added an optional parameter &#8220;movie&#8221; to jump directly to a particular movie.
     
@@ -58,7 +58,7 @@ The functionality I wanted to implement was:
   * Show thumbnails for each of my friends who like the current movie
   * When the user&#8217;s thumbnail is clicked show all the movies liked by that friend in the app
   * When one of those movies is clicked, jump to that movie </ul> 
-    Turns out this task was more challenging than I anticipated &#8211; partly because, as a hack, I hadn&#8217;t thought it out completely, and partly because some of the pieces were more difficult to implement than I&#8217;d expected.  You can see the resulting application [here](http://www.princesspolymath.com/webIntersect/index.php), although I will remind you that as a hack it&#8217;s not as stable as it might be, and it seems to be particularly sad in Firefox.
+    Turns out this task was more challenging than I anticipated &#8211; partly because, as a hack, I hadn&#8217;t thought it out completely, and partly because some of the pieces were more difficult to implement than I&#8217;d expected.  You can see the resulting application [here](webIntersect/index.php), although I will remind you that as a hack it&#8217;s not as stable as it might be, and it seems to be particularly sad in Firefox.
     
     This post will cover the process I went through from start to finish.
     
@@ -72,7 +72,7 @@ The functionality I wanted to implement was:
     
     For instance, the URL for my website was:
     
-    `http://www.princesspolymath.com/webIntersect/index.html`
+    `webIntersect/index.html`
     
     But I wanted to be able to let people &#8220;like&#8221; particular movies, so I added an optional parameter &#8220;movie&#8221; to jump directly to a particular movie.
     
@@ -82,11 +82,11 @@ The functionality I wanted to implement was:
     
     So my JQuery based &#8220;html&#8221; page switched to a .php file so that it could get pre-processed to show the metadata before the page was loaded.
     
-    `http://www.princesspolymath.com/webIntersect/index.php?movie=BVQHL`
+    `webIntersect/index.php?movie=BVQHL`
     
     Which was a great idea, except that coming into the page from that link meant I didn&#8217;t have the metadata I needed in order to create the open graph metadata tags. The information I needed for the tags had been retrieved from a web service, so getting them back again before page load (without storing them on the server) was a challenge. I decided to store the information I needed \*inside\* of the URL.
     
-    `http://www.princesspolymath.com/webIntersect/index.php?movie=BVQHL&name=Howl%27s+Moving+Castleℑ=http%3A%2F%2Fcdn-3.nflximg.com%2Fus%2Fboxshots%2Flarge%2F70028883.jpg`
+    `webIntersect/index.php?movie=BVQHL&name=Howl%27s+Moving+Castleℑ=http%3A%2F%2Fcdn-3.nflximg.com%2Fus%2Fboxshots%2Flarge%2F70028883.jpg`
     
     My app ignored the extra parameters, but the PHP parser was able to get what it needed to make the tags:
   

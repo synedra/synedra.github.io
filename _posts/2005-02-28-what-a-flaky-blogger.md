@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=83
+guid: princess_polymath/?p=83
 permalink: /what-a-flaky-blogger.html
 aktt_notify_twitter:
   - yes

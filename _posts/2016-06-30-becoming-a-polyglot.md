@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=846
+guid: princess_polymath/?p=846
 permalink: /becoming-a-polyglot
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:3:"847";s:11:"_thumb_type";s:5:"thumb";}'

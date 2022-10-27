@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=787
+guid: princess_polymath/?p=787
 permalink: /glue-ing-together-apis-for-gluecon.html
 post_slider_check_key:
   - 0

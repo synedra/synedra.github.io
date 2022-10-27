@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=75
+guid: princess_polymath/?p=75
 permalink: /shf-lemon-sabayon-raspberry-cups.html
 aktt_notify_twitter:
   - yes

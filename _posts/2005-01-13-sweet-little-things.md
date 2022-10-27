@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=53
+guid: princess_polymath/?p=53
 permalink: /sweet-little-things.html
 aktt_notify_twitter:
   - yes

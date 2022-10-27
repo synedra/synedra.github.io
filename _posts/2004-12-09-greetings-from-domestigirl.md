@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=32
+guid: princess_polymath/?p=32
 permalink: /greetings-from-domestigirl.html
 aktt_notify_twitter:
   - yes

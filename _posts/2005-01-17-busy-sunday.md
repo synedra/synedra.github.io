@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=58
+guid: princess_polymath/?p=58
 permalink: /busy-sunday.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=102
+guid: princess_polymath/?p=102
 permalink: /santa-cruz-12-marathon.html
 aktt_notify_twitter:
   - yes

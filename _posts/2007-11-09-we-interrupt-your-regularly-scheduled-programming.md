@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=22
+guid: princess_polymath/?p=22
 permalink: /we-interrupt-your-regularly-scheduled-programming.html
 aktt_notify_twitter:
   - yes

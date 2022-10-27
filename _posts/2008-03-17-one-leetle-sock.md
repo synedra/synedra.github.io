@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=128
+guid: princess_polymath/?p=128
 permalink: /one-leetle-sock.html
 aktt_notify_twitter:
   - yes

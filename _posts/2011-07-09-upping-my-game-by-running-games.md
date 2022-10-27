@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=463
+guid: princess_polymath/?p=463
 permalink: /upping-my-game-by-running-games.html
 aktt_notify_twitter:
   - yes

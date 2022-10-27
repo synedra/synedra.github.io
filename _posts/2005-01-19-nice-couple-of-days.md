@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=60
+guid: princess_polymath/?p=60
 permalink: /nice-couple-of-days.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=19
+guid: princess_polymath/?p=19
 permalink: /now-i-remember-why-i-do-this-job.html
 aktt_notify_twitter:
   - yes

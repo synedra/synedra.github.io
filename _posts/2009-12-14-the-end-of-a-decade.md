@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=177
+guid: princess_polymath/?p=177
 permalink: /the-end-of-a-decade.html
 aktt_notify_twitter:
   - no

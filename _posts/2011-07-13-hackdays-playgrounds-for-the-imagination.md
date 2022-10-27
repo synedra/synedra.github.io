@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=478
+guid: princess_polymath/?p=478
 permalink: /hackdays-playgrounds-for-the-imagination.html
 aktt_notify_twitter:
   - yes
@@ -33,8 +33,8 @@ If you want to get a jump on the competition, head over to our [Developer Portal
 
 Here are some links to code walkthroughs you might find helpful:
 
-  * Our faceted search enables you to make semantic applications &#8211; [Browsing your LinkedIn Connections by Industry](http://www.princesspolymath.com/princess_polymath/?p=404)
-  * Our Javascript API is easy to use: [How to Create a LinkedIn Application in 3 Easy Steps](http://www.princesspolymath.com/princess_polymath/?p=347)
+  * Our faceted search enables you to make semantic applications &#8211; [Browsing your LinkedIn Connections by Industry](princess_polymath/?p=404)
+  * Our Javascript API is easy to use: [How to Create a LinkedIn Application in 3 Easy Steps](princess_polymath/?p=347)
   * Our [Javascript Tutorials](http://developer.linkedin.com/documents/tutorials) have lots of helpful code walkthroughs, such as the [Javascript API Search Example](http://developer.linkedinlabs.com/tutorials/jsapi_search/)
 
 

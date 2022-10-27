@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=143
+guid: princess_polymath/?p=143
 permalink: /python-netflix-api.html
 aktt_notify_twitter:
   - yes

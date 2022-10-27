@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=531
+guid: princess_polymath/?p=531
 permalink: /handling-sms-responses-from-twilio-using-django-on-heroku.html
 aktt_notify_twitter:
   - yes
@@ -114,7 +114,7 @@ Figure out what the user wants us to do (save, search, cancel, help, level)
         	profile.save()
         	return HttpResponse(createSmsResponse("Today SMS Service Cancelled"))</pre>
 
-&#8220;Level <number>&#8221; tells the system the user wants to change their notification level.  Higher means fewer messages, as this is used as the &#8220;score&#8221; check against articles based on relevance.  See the [previous post on Twilio notifications](http://www.princesspolymath.com/princess_polymath/?p=521) to see how this is implemented.  Notice that in this and the following methods we&#8217;re doing generic error catching &#8211; there&#8217;s a few reasons why it might fail, but the important thing is to tell the user their action didn&#8217;t succeed and give them a hint as to why that might be.
+&#8220;Level <number>&#8221; tells the system the user wants to change their notification level.  Higher means fewer messages, as this is used as the &#8220;score&#8221; check against articles based on relevance.  See the [previous post on Twilio notifications](princess_polymath/?p=521) to see how this is implemented.  Notice that in this and the following methods we&#8217;re doing generic error catching &#8211; there&#8217;s a few reasons why it might fail, but the important thing is to tell the user their action didn&#8217;t succeed and give them a hint as to why that might be.
 
 <pre># Change level for notifications by setting score to requested level
         # Command is 'level \d'

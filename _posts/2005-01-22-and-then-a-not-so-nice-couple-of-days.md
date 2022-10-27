@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=62
+guid: princess_polymath/?p=62
 permalink: /and-then-a-not-so-nice-couple-of-days.html
 aktt_notify_twitter:
   - yes

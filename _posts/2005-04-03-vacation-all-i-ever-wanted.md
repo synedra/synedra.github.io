@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=93
+guid: princess_polymath/?p=93
 permalink: /vacation-all-i-ever-wanted.html
 aktt_notify_twitter:
   - yes

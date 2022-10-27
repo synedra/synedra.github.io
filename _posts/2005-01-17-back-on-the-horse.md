@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=59
+guid: princess_polymath/?p=59
 permalink: /back-on-the-horse.html
 aktt_notify_twitter:
   - yes

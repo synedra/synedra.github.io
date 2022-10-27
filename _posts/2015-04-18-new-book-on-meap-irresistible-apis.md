@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=783
+guid: princess_polymath/?p=783
 permalink: /new-book-on-meap-irresistible-apis.html
 post_slider_check_key:
   - 1

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=17
+guid: princess_polymath/?p=17
 permalink: /conceptual-reference-books-vs-tutorials.html
 aktt_notify_twitter:
   - yes

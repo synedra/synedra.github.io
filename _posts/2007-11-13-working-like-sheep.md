@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=23
+guid: princess_polymath/?p=23
 permalink: /working-like-sheep.html
 aktt_notify_twitter:
   - yes

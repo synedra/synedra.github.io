@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=103
+guid: princess_polymath/?p=103
 permalink: /the-dryer-ate-it.html
 aktt_notify_twitter:
   - yes

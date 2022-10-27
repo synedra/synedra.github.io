@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=750
+guid: princess_polymath/?p=750
 permalink: /amazing-street-art.html
 post_slider_check_key:
   - 0

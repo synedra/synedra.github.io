@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=16
+guid: princess_polymath/?p=16
 permalink: /pragmatic-dont-be-dumb-programming.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=95
+guid: princess_polymath/?p=95
 permalink: /follow-your-instincts.html
 aktt_notify_twitter:
   - yes

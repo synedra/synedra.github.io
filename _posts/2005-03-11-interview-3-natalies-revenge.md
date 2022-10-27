@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=89
+guid: princess_polymath/?p=89
 permalink: /interview-3-natalies-revenge.html
 aktt_notify_twitter:
   - yes

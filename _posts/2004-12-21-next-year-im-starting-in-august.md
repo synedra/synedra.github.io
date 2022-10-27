@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=42
+guid: princess_polymath/?p=42
 permalink: /next-year-im-starting-in-august.html
 aktt_notify_twitter:
   - yes

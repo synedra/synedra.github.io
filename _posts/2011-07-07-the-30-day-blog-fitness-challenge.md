@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=454
+guid: princess_polymath/?p=454
 permalink: /the-30-day-blog-fitness-challenge.html
 aktt_notify_twitter:
   - yes

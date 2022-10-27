@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=300
+guid: princess_polymath/?p=300
 permalink: /watching-craigslist-feeds-using-safari-or-mac-mail.html
 aktt_notify_twitter:
   - yes

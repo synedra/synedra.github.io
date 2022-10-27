@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=666
+guid: princess_polymath/?p=666
 permalink: /api-playground.html
 dsq_thread_id:
   - 2617423039

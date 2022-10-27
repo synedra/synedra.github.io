@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=145
+guid: princess_polymath/?p=145
 permalink: /ada-lovelace-day.html
 aktt_notify_twitter:
   - yes

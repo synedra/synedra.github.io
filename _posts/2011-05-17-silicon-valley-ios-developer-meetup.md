@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=424
+guid: princess_polymath/?p=424
 permalink: /silicon-valley-ios-developer-meetup.html
 aktt_notify_twitter:
   - yes

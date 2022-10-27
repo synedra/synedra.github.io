@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=10
+guid: princess_polymath/?p=10
 permalink: /freebasing-at-metaweb.html
 aktt_notify_twitter:
   - yes

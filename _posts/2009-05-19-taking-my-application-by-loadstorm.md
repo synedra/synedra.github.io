@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=146
+guid: princess_polymath/?p=146
 permalink: /taking-my-application-by-loadstorm.html
 aktt_notify_twitter:
   - yes

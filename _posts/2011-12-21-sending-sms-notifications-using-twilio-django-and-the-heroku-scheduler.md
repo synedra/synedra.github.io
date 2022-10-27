@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=521
+guid: princess_polymath/?p=521
 permalink: /sending-sms-notifications-using-twilio-django-and-the-heroku-scheduler.html
 aktt_notify_twitter:
   - yes
@@ -30,7 +30,7 @@ tags:
   - python
   - twilio
 ---
-For my [Twilio SMS Demo App](http://www.princesspolymath.com/princess_polymath/?p=509) this month, I wanted to send notifications to LinkedIn members based on hot items for them in LinkedIn Today.  This is a tutorial on creating a python script to access user information in the Django database, pull information from a Web Service (in this case the LinkedIn Today API) and send an SMS to the user.  A couple of caveats are in order here to make sure that people don&#8217;t accidentally run afoul of the [LinkedIn API Terms of Use](https://developer.linkedin.com/documents/linkedin-apis-terms-use) when implementing something of this sort.
+For my [Twilio SMS Demo App](princess_polymath/?p=509) this month, I wanted to send notifications to LinkedIn members based on hot items for them in LinkedIn Today.  This is a tutorial on creating a python script to access user information in the Django database, pull information from a Web Service (in this case the LinkedIn Today API) and send an SMS to the user.  A couple of caveats are in order here to make sure that people don&#8217;t accidentally run afoul of the [LinkedIn API Terms of Use](https://developer.linkedin.com/documents/linkedin-apis-terms-use) when implementing something of this sort.
 
   * The LinkedIn Today API is only available internally at this point, and should only be used as an example of what&#8217;s possible
   * I have stored the user&#8217;s phone number in the database &#8211; when storing LinkedIn information you always need to notify the user that you&#8217;re doing that, explicitly.
@@ -42,7 +42,7 @@ For my [Twilio SMS Demo App](http://www.princesspolymath.com/princess_polymath/?
 <div>
   <ul>
     <li>
-      A working Django system on Heroku.  If you set up my example LinkedIn Django application from <a href="http://www.princesspolymath.com/princess_polymath/?p=511">this post</a>, you&#8217;ll be able to extend that here.
+      A working Django system on Heroku.  If you set up my example LinkedIn Django application from <a href="princess_polymath/?p=511">this post</a>, you&#8217;ll be able to extend that here.
     </li>
     <li>
       A<a href="http://www.twilio.com/"> Twilio account</a> &#8211; ideally with a purchased number, but you could get this system to work with the sandbox system.  You get $30 in Twilio credit to start out with, which is plenty to set up a demo of this sort.
@@ -56,7 +56,7 @@ For my [Twilio SMS Demo App](http://www.princesspolymath.com/princess_polymath/?
 ## Install the Twilio Library
 
 <div>
-  Assuming that you&#8217;re using the LinkedIn Django application from <a href="http://www.princesspolymath.com/princess_polymath/?p=511">my previous post</a> and are in the root level of that structure, you need to add the Twilio library to your installation:
+  Assuming that you&#8217;re using the LinkedIn Django application from <a href="princess_polymath/?p=511">my previous post</a> and are in the root level of that structure, you need to add the Twilio library to your installation:
 </div>
 
 <pre>% pip install twilio

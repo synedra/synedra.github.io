@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=100
+guid: princess_polymath/?p=100
 permalink: /upcoming-races.html
 aktt_notify_twitter:
   - yes

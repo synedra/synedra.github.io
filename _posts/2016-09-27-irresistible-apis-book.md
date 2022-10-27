@@ -17,5 +17,5 @@ categories:
 My book is out!  <a href="http://amzn.to/2dhkoaT">Irresistible APIs</a> is now available on Manning, on Amazon, and probably even
 at bookstores in your area.  Check it out and let me know what you think on twitter :-)
 
-See also my related post on <a href="http://www.princesspolymath.com/irresistible/">Irresistible APIs</a> on the site, and
+See also my related post on <a href="irresistible/">Irresistible APIs</a> on the site, and
 I'll have a link to the presentation I gave at Abstractions earlier this year as soon as it's up and available.

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=97
+guid: princess_polymath/?p=97
 permalink: /happy-friday.html
 aktt_notify_twitter:
   - yes

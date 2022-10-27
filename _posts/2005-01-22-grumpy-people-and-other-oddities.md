@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=63
+guid: princess_polymath/?p=63
 permalink: /grumpy-people-and-other-oddities.html
 aktt_notify_twitter:
   - yes

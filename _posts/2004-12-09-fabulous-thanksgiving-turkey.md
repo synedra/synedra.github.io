@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=33
+guid: princess_polymath/?p=33
 permalink: /fabulous-thanksgiving-turkey.html
 aktt_notify_twitter:
   - yes

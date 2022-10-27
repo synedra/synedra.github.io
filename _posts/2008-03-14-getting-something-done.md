@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=29
+guid: princess_polymath/?p=29
 permalink: /getting-something-done.html
 aktt_notify_twitter:
   - yes

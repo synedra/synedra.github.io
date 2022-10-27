@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=68
+guid: princess_polymath/?p=68
 permalink: /rituals-and-therapy.html
 aktt_notify_twitter:
   - yes

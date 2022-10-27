@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=489
+guid: princess_polymath/?p=489
 permalink: /documenting-your-api-with-iodocs-on-heroku.html
 aktt_notify_twitter:
   - yes
@@ -95,7 +95,7 @@ if (process.env.REDISTOGO_URL) {
    "keyParam":""
  },</pre>
 
-  5. Copy [linkedin.json](http://www.princesspolymath.com/linkedin.json) into your public/data folder
+  5. Copy [linkedin.json](linkedin.json) into your public/data folder
   6. Set up your git repository for heroku 
     <pre>% git init
 % git add .

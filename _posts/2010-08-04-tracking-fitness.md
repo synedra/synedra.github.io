@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=219
+guid: princess_polymath/?p=219
 permalink: /tracking-fitness.html
 aktt_notify_twitter:
   - yes

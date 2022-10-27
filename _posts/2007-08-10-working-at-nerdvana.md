@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=4
+guid: princess_polymath/?p=4
 permalink: /working-at-nerdvana.html
 aktt_notify_twitter:
   - yes

@@ -6,7 +6,7 @@ author: synedra
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=8
+guid: princess_polymath/?p=8
 permalink: /cross-posting-to-socialtext.html
 aktt_notify_twitter:
   - yes

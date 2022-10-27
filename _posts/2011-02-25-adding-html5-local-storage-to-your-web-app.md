@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=396
+guid: princess_polymath/?p=396
 permalink: /adding-html5-local-storage-to-your-web-app.html
 aktt_notify_twitter:
   - yes

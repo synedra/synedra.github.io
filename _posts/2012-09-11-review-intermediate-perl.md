@@ -6,7 +6,7 @@ author: admin
 
 layout: page
 sidebar: left
-guid: http://www.princesspolymath.com/princess_polymath/?p=603
+guid: princess_polymath/?p=603
 permalink: /review-intermediate-perl.html
 aktt_notify_twitter:
   - yes
